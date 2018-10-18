@@ -1,0 +1,10 @@
+<footer id="footer">
+  <% if (theme.sidebar === 'bottom'){ %>
+    <%- partial('_partial/sidebar') %>
+  <% } %>
+  <div class="outer">
+    <div id="footer-info" class="inner">
+      &copy; <%= date(new Date(), 'YYYY') %> <a href="http://songxiaofeng.top/" target="_blank">Song Xiaofeng</a>
+    </div>
+  </div>
+</footer>
