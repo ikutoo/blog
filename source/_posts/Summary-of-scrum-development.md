@@ -38,4 +38,8 @@ tags:
 			* 在写测试用例的过程中可以帮助我们发现软件原有的设计缺陷。
 			* 如果单元测试用例写不出来，说明软件模块之间耦合度太高，这时需要重构软件实现解耦合。
 		* 由于TDD能够帮助完善软件架构设计，也使得软件之后可能面临的重构会更加容易。
-		
+	
+### Tools
+* 敏捷开发进度管理：[Leangoo](https://www.leangoo.com)
+* 团队、个人文档管理：[Notion](https://www.notion.so)
+* 个人时间管理：[Skone](https://time.nowplus.cn)、[Pomotodo](https://www.pomotodo.com)
