@@ -6,6 +6,7 @@ tags:
 
 In this blog, I’ll keep track of some of the good resources I encountered while learning computer graphics.
 
+
 ## Real-Time Rendering
 * Books
     * Real-Time Rendering 4th Edition [2018]
@@ -16,6 +17,7 @@ In this blog, I’ll keep track of some of the good resources I encountered whil
     * Physically Based Rendering, Third Edition: from Theory to Implementation [2016]
     * [`More`](http://www.realtimerendering.com/books.html)
 <!-- more -->
+
 
 * Portal
     * [Real-Time Rendering Resources](http://www.realtimerendering.com)
