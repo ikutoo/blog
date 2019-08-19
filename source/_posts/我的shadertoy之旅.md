@@ -1,5 +1,5 @@
 ---
-title: 朝花夕拾(1) - 我的shadertoy之旅
+title: 我的shadertoy之旅
 date: 2019-05-04 16:09:39
 tags:
 ---
